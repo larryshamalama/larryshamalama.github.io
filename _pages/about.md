@@ -6,20 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: larry-parc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Biostatistics PhD Student @ DLSPH</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth year PhD student in biostatistics at the Dalla Lana School of Public Health at the University of Toronto. My research interests revolve around dynamic treatment regimes (DTRs) and Bayesian methods and, on the software side, I take interest in making Bayesian software ``better''. For my PhD, I am jointly supervised by Dr. Olli Saarela and Dr. Eleanor Pullenayegum and my thesis focuses on Bayesian estimation of optimal DTRs using irregularly observed data. I also contribute regularly to open-source packages, notably in the [PyMC](https://docs.pymc.io/en/stable/) and [Aesara](https://github.com/aesara-devs/) ecosystem and, as of November 2022, I became a core developper of PyMC. I am also a [GitHub Campus Expert](https://githubcampus.expert/larryshamalama/) and a co-founder of the [Health Data Working Group](https://health-data-working-group.github.io/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my PhD studies, I have pursued a dual Master's program: one MSc in biostatistics at McGill University and the other in Public Health Data Science at the University of Bordeaux. I was jointly supervised by [Dr. Erica Moodie](https://www.ericamoodie.com/) and [Dr. Rodolphe Thiébaut](https://www.bordeaux-population-health.center/profile/rodolphe-thiebaut/), both of whom I look up to greatly and attribute a lot of my personal and professional growth.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy coding in Python, skateboarding and eating copious amounts of fruit (especially grapes, bananas, oranges and watermelon). Feel free to connect with me! Tu peux aussi m'écrire en français <p>:)</p>.
