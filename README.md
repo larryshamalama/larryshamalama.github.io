@@ -218,7 +218,6 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
       - [Atom (RSS-like) Feed](#atom-rss-like-feed)
       - [Related posts](#related-posts)
       - [Code quality checks](#code-quality-checks)
-  - [FAQ](#faq)
   - [Contributing](#contributing)
     - [Maintainers](#maintainers)
     - [All Contributors](#all-contributors)
@@ -395,10 +394,6 @@ Currently, we run some checks to ensure that the code quality and generated site
 - [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
 
 We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
-
-## FAQ
-
-For frequently asked questions, please refer to [FAQ.md](FAQ.md).
 
 ## Contributing
 

@@ -20,7 +20,6 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!CONTRIBUTING.md"
       - "!CUSTOMIZE.md"
-      - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
   pull_request:
@@ -42,7 +41,6 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!CONTRIBUTING.md"
       - "!CUSTOMIZE.md"
-      - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
   workflow_dispatch:
