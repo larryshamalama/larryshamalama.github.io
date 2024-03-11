@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Ann. Appl. Stat.":
+  url: https://projecteuclid.org/journals/annals-of-applied-statistics
+  color: "#d51b21"
+
+"PeerJ Comp. Sci.":
+  url: https://peerj.com/computer-science/
+  color: "#e5c54f"
